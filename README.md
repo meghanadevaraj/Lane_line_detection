@@ -1,6 +1,7 @@
 The code you've shared is a lane line detection implementation that processes video frames to detect lanes using image processing techniques in OpenCV. Let's break down the key components:
 
 software :- vs code for windows (https://code.visualstudio.com/download)
+
 Key Steps in the Code:
 Video Capture:
 
