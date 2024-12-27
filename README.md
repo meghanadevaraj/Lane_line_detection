@@ -43,3 +43,13 @@ To make lane detection more robust, you could use techniques like Hough Transfor
 Exit on Esc Key:
 
 The current exit condition is triggered by pressing the Esc key, which is a standard way to close OpenCV windows.
+
+Original Image of project:- ![image](https://github.com/user-attachments/assets/f609cce0-51af-4c7f-a360-3d7165f9dd92)
+Detected lane boundaries by the Lane:- ![image](https://github.com/user-attachments/assets/c8ee8fe1-46d0-407a-a6e3-399f8f8884e8)
+The image with Hough line segments:- ![image](https://github.com/user-attachments/assets/9ce872a4-ee25-4c4c-a624-ff105bdd39d2)
+The image after extracting the area of interest:-!
+[image](https://github.com/user-attachments/assets/6845e705-8d29-48d8-bcaa-c138ec39f93b)
+The image after drawing lane lines:- ![image](https://github.com/user-attachments/assets/a5bc0ab1-1953-48a6-8411-b60d07074d9f)
+
+
+
